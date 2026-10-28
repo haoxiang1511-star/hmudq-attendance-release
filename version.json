@@ -1,15 +1,12 @@
 {
-  "version": "1.5.0",
-  "build": 107,
+  "version": "1.5.1",
+  "build": 109,
   "notes": [
+    "国内直链优先走 Gitee；GitHub / 蓝奏云作备用",
     "界面改版：关于改为左侧抽屉，底部只留点名和名单两页",
-    "点名与名单可左右滑动；点名页人名区尽量不误切页；点名页可滑开设置",
-    "名单自动保存；右下角展开添加同学/移班；拖动排序；删人可撤销",
-    "有新版时设置与检查更新显示小红点，不弹窗不强更",
-    "有考勤时每周一自动备份；从文件恢复区分本软件备份与仅结构像",
-    "失败页可检查更新、导出数据、一键复制开发者邮箱",
-    "分享应用可分享本机安装包，或走 GitHub/蓝奏云下载"
+    "点名与名单可左右滑动；名单自动保存；有新版时小红点提示"
   ],
+  "gitee_apk_url": "https://gitee.com/Hector1511/hmudq-attendance-release/releases/download/v1.5.1/hmudq-attendance.apk",
   "github_apk_url": "https://github.com/haoxiang1511-star/hmudq-attendance-release/releases/latest/download/hmudq-attendance.apk",
   "lanzou_url": "https://wwbwu.lanzoup.com/b01i5ycuyb",
   "lanzou_code": "dt9b"
