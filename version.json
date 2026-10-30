@@ -1,13 +1,13 @@
 {
-  "version": "1.5.2",
-  "build": 110,
+  "version": "1.5.3",
+  "build": 112,
   "notes": [
-    "界面按设计图重做：点名顶栏、名单顶栏、侧栏和改名弹窗都换了新样式",
-    "右下角＋展开改为白色标签 + 圆按钮，带弹出动画",
-    "拖动排序长按有振动，浮起感更明显；改名时键盘不再顶起底栏",
-    "国内直链优先走 Gitee；GitHub / 蓝奏云作备用"
+    "滑动点名名单会收起输入法，搜索文字保留；关弹窗、切页、回到前台时输入法不再自己弹出",
+    "侧边栏打开有滑入动画；导出月份弹窗按内容高度显示",
+    "「移到其他班」弹窗按钮固定在底部；导入预览的「新」标记不再被滚动条挡住",
+    "Gitee 下载改为 App 内下载并自动安装"
   ],
-  "gitee_apk_url": "https://gitee.com/Hector1511/hmudq-attendance-release/releases/download/v1.5.2/hmudq-attendance.apk",
+  "gitee_apk_url": "https://gitee.com/Hector1511/hmudq-attendance-release/releases/download/v1.5.3/hmudq-attendance.apk",
   "github_apk_url": "https://github.com/haoxiang1511-star/hmudq-attendance-release/releases/latest/download/hmudq-attendance.apk",
   "lanzou_url": "https://wwbwu.lanzoup.com/b01i5ycuyb",
   "lanzou_code": "dt9b"
